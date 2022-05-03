@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Rory</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>roryye</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>CSAPP 读书笔记</title>
-    <link href="http://example.com/2022/05/03/My-New-Post/"/>
-    <id>http://example.com/2022/05/03/My-New-Post/</id>
+    <link href="http://example.com/csapp-note/"/>
+    <id>http://example.com/csapp-note/</id>
     <published>2022-05-03T07:01:27.000Z</published>
     <updated>2022-05-03T08:24:53.976Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/05/03/hello-world/"/>
-    <id>http://example.com/2022/05/03/hello-world/</id>
+    <link href="http://example.com/hello-world/"/>
+    <id>http://example.com/hello-world/</id>
     <published>2022-05-03T05:58:05.255Z</published>
     <updated>2022-05-03T05:58:05.255Z</updated>
     

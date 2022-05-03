@@ -1,3 +1,4 @@
 http://example.com/2022/05/03/My-New-Post/
 http://example.com/2022/05/03/hello-world/
 http://example.com/
+http://example.com/tags/book/

@@ -1,2 +1,4 @@
+http://example.com/csapp-note/
 http://example.com/hello-world/
 http://example.com/
+http://example.com/tags/book/

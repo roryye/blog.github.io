@@ -1,6 +1,6 @@
+http://example.com/oauth-login/
 http://example.com/golang-slice/
 http://example.com/sms-verification-code/
-http://example.com/oauth-login/
 http://example.com/csapp-note/
 http://example.com/hello-world/
 http://example.com/

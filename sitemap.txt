@@ -1,4 +1,4 @@
-http://example.com/golang-interface-gorm/
+http://example.com/golang-gorm-scan-value/
 http://example.com/oauth-login/
 http://example.com/sms-verification-code/
 http://example.com/golang-slice/
